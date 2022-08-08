@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:title="Yêu thích"
+        android:icon="@drawable/like" />
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/binhluan1"
+        android:title="Bình luận" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:title="Chia sẻ"
+        android:icon="@drawable/chiase" />
+    <item
+        android:id="@+id/nhaFragment"
+        android:title="Tải về"
+        android:icon="@drawable/taive"/>
+</menu>
